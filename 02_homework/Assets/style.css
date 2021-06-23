@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(55, 73, 102);
+    color:white;
+}
+
+nav {
+    background-color: white;
+    text-align: center;
+    position: fixed;
+    
+    justify-self: center;
+}
+
+
+h1 {
+    background-color: white;
+    color: black;
+    
+}
+
+html {
+    font-family: sans-serif;
+}
+
+.small {
+    font-size: xx-small;
+}
+
+footer {
+    font-size: small;
+    background-color: cornflowerblue;
+    text-align: center;
+    justify-content: center;
+}
+.card {
+    justify-content: center;
+    margin: 100px;
+    background-color: black;
+    max-width: 500px;
+}
+
+.firstCard {
+    justify-content: center;
+    margin: 100px;
+    background-color: black;
+    max-width: 1000px;
+}
+
+.picture {
+    height: auto;
+    width: 100%;
+    max-width: 500px;
+}
+
+.firstPicture {
+    height: auto;
+    width: 100%;
+    max-width: 1000px;
+}
